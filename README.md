@@ -1,46 +1,106 @@
-# IBM-Telecom-Customer-Churn-Analysis-Dashboard
-IBM Telecom Customer Churn Analysis dashboard projects by priyank singh
+# IBM HR Analytics Dashboard | Power BI
 
-## Overview
-This Power BI dashboard analyzes customer churn in the IBM Telco dataset. The report helps identify churn patterns, customer behavior, revenue impact, and business opportunities through interactive dashboards.
+## 📌 Project Overview
 
-## Tools Used
-- Power BI
-- Power Query
-- DAX
-- Data Modeling
+This project is an interactive HR Analytics Dashboard built in **Power BI** using the IBM HR Analytics Employee Attrition dataset. The dashboard helps HR professionals and business leaders understand workforce trends, identify the factors driving employee attrition, and make data-driven decisions to improve employee retention.
 
-## Dashboard Pages
-### Executive Overview
-- KPIs
-- Revenue Analysis
-- Churn Rate
-- Customer Segmentation
+---
 
-### Customer Insights
-- Revenue Contribution
-- Waterfall Analysis
-- Heatmap
-- Ribbon Chart
-- Key Influencers
-- Map Analysis
+## 🎯 Objectives
 
-### Churn Intelligence
-- Decomposition Tree
-- Gauge
-- Risk Matrix
-- Customer Details
-- Business Insights
+* Analyze employee attrition across different departments and job roles.
+* Identify workforce demographics and salary distribution.
+* Evaluate job satisfaction, work-life balance, and overtime impact.
+* Provide actionable insights to support HR decision-making.
 
-## Key Insights
-- Month-to-month contracts experience the highest churn.
-- Fiber Optic customers have higher churn rates.
-- Higher monthly charges are associated with increased churn.
-- Long-term contracts improve customer retention.
+---
 
-## Skills Demonstrated
-- Dashboard Design
-- Business Intelligence
-- Interactive Reporting
-- KPI Development
-- Customer Analytics
+## 🛠️ Tools & Technologies
+
+* **Power BI Desktop**
+* Microsoft Excel
+* Power Query
+* DAX (Data Analysis Expressions)
+
+---
+
+## 📊 Dashboard Features
+
+### HR Overview
+
+* Total Employees
+* Attrition Count
+* Attrition Rate
+* Average Age
+* Average Monthly Income
+* Average Years at Company
+
+### Employee Demographics
+
+* Employees by Department
+* Employees by Gender
+* Employees by Education
+* Employees by Age Group
+
+### Attrition Analysis
+
+* Attrition by Department
+* Attrition by Job Role
+* Attrition by Overtime
+* Attrition by Years at Company
+
+### Employee Satisfaction
+
+* Job Satisfaction Analysis
+* Environment Satisfaction Analysis
+* Work-Life Balance Analysis
+* Performance Rating Distribution
+
+---
+
+## 📈 Key Insights
+
+* Employees working overtime showed a higher likelihood of attrition.
+* Certain job roles experienced significantly higher employee turnover.
+* Work-life balance and job satisfaction were strongly associated with employee retention.
+* Departments with higher attrition may require targeted retention strategies.
+
+---
+
+## 💼 Business Recommendations
+
+* Improve work-life balance initiatives for high-risk employee groups.
+* Review overtime policies and workload distribution.
+* Enhance employee engagement and career development programs.
+* Conduct regular satisfaction surveys to identify retention risks early.
+
+---
+
+## 📂 Dataset
+
+**IBM HR Analytics Employee Attrition & Performance Dataset**
+
+---
+
+## 🚀 Skills Demonstrated
+
+* Data Cleaning
+* Data Modeling
+* Power Query
+* DAX Measures
+* KPI Design
+* Data Visualization
+* HR Analytics
+* Business Intelligence
+* Dashboard Design
+* Insight Generation
+
+---
+
+## 👤 Author
+
+**Priyank Singh**
+
+GitHub: https://github.com/pynk7777
+
+Aspiring Data Analyst | Power BI | Excel | SQL | Python
